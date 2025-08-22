@@ -1,4 +1,4 @@
-# Managing Accounts with Group Policy
+# Configuring Account Policies for Active Directory
 
 This tutorial shows how to manage Active Directory accounts by setting lockout policies, disabling and enabling accounts, and checking security logs on both the Domain Controller and a client.
 
